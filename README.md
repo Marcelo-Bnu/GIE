@@ -34,6 +34,14 @@ Ou seguir estas opções do menu:
 
 <img width="559" height="226" alt="image" src="https://github.com/user-attachments/assets/61f13a78-f5ff-48e3-be80-cdf4ba31d8c4" />
 
+Sempre que salvar um registro, será exibida a mensagem na barra de status da janela, conforme destacado em vermelho:
+
+<img width="730" height="424" alt="image" src="https://github.com/user-attachments/assets/084543a2-1581-4206-b215-c3f4f10a2e02" />
+
+Se tentar sair da tela sem salvar, o sistema exibe a mensagem abaixo:
+
+<img width="722" height="350" alt="image" src="https://github.com/user-attachments/assets/49ed2e7a-e7aa-4ede-9a3b-2eaef6758573" />
+
 - Para excluir um registro, basta clicar no botão amarelo, destacado abaixo.
 
 <img width="886" height="496" alt="image" src="https://github.com/user-attachments/assets/88345157-d335-411e-93b7-cb372ce74925" />
@@ -63,3 +71,11 @@ Após basta clicar no botão destacado abaixo.
 Ou seguir estas opções do menu:
 
 <img width="648" height="238" alt="image" src="https://github.com/user-attachments/assets/419b590d-9fc9-4785-9a88-dc9348fc2a47" />
+
+Caso o usuário tente cadastrar um código já cadastrado, o sistema exibe a mensagem abaixo:
+
+<img width="722" height="344" alt="image" src="https://github.com/user-attachments/assets/74c2887e-93ba-407b-ad5c-8d3a8a551fed" />
+
+Caso o usuário tente cadastrar um Empreendimento ja cadastrado para o mesmo Empreendor, o sistema exibe a mensagem abaixo:
+
+<img width="721" height="319" alt="image" src="https://github.com/user-attachments/assets/f319cfc4-3b2f-4215-a5db-3bbc9d606f33" />
