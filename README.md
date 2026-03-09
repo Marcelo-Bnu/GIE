@@ -7,10 +7,9 @@ Este sistema pode ser executado dentro de qualquer ferramenta Oracle Forms 11G o
 
 ## 💻 Pré-requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-- Você tem uma máquina com ambiente WEBLOGIC ou Oracle Forms 11G e com Java 6 e Java 7 no lado do cliente (JRE), sendo o Java 7 (atualizações mais recentes) o recomendado para maior segurança e estabilidade. Embora algumas versões funcionem com o Java 8, o suporte oficial se concentra em versões anteriores, exigindo frequentemente o uso de Java Web Start devido a problemas com navegadores.
+- Você tem uma máquina com ambiente WEBLOGIC ou Oracle Forms 11G e com Java 6 ou Java 7 no lado do cliente (JRE), sendo o Java 7 (atualizações mais recentes) o recomendado para maior segurança e estabilidade. Embora algumas versões funcionem com o Java 8, o suporte oficial se concentra em versões anteriores, exigindo frequentemente o uso de Java Web Start devido a problemas com navegadores.
 - A estrutura de tabela de banco de dados Oracle abaixo:
-  <img width="629" height="253" alt="image" src="https://github.com/user-attachments/assets/cfa3ae60-d619-48f7-bd48-c60e6c39ac08" />
-
+<img width="629" height="253" alt="image" src="https://github.com/user-attachments/assets/cfa3ae60-d619-48f7-bd48-c60e6c39ac08" />
 
 ## Licença
 Este projeto é para comprovar os conhecimentos na linguagem Oracle Forms e PL/SQL, não sendo permitido seu uso comercial.
@@ -18,9 +17,10 @@ Este projeto é para comprovar os conhecimentos na linguagem Oracle Forms e PL/S
 ## ☕ Usando GIE
 Para usar GIE, siga estas etapas:
 
-- Para incluir um registro, basta clicar no botão verde, destacado em vermelho abaixo.
+- Para incluir um registro, basta clicar no botão verde, conforme destacado em vermelho:
   
-  <img width="886" height="496" alt="image" src="https://github.com/user-attachments/assets/c865a9cc-3ce3-4f92-9b6d-c118ae2a937a" />
+<img width="886" height="496" alt="image" src="https://github.com/user-attachments/assets/c865a9cc-3ce3-4f92-9b6d-c118ae2a937a" />
+
 
 Ou seguir estas opções do menu:
 
