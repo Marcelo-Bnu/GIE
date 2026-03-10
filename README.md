@@ -11,7 +11,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - A estrutura de tabela de banco de dados Oracle abaixo:
 <img width="629" height="253" alt="image" src="https://github.com/user-attachments/assets/cfa3ae60-d619-48f7-bd48-c60e6c39ac08" />
 
-## Licença
+## 📝 Licença
 Este projeto é para comprovar os conhecimentos na linguagem Oracle Forms e PL/SQL, não sendo permitido seu uso comercial.
 
 ## ☕ Usando GIE
@@ -79,3 +79,8 @@ Caso o usuário tente cadastrar um código já cadastrado, o sistema exibe a men
 Caso o usuário tente cadastrar um Empreendimento ja cadastrado para o mesmo Empreendor, o sistema exibe a mensagem abaixo:
 
 <img width="721" height="319" alt="image" src="https://github.com/user-attachments/assets/f319cfc4-3b2f-4215-a5db-3bbc9d606f33" />
+
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+
+
+https://www.youtube.com/watch?v=6R2Nfvo2pUM
